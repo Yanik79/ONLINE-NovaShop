@@ -1,6 +1,3 @@
-# OnLine NovaShop 0.1.1
+# OnLine NovaShop 0.1.2
 
 - Перший публічний Beta-реліз
-- Developer Suite v1.1
-- Website Publisher
-- Public Release Gate
