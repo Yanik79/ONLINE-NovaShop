@@ -1,4 +1,4 @@
-# OnLine NovaShop 0.1.7
+# OnLine NovaShop 0.1.8
 
 - Перший публічний Beta-реліз
 - Developer Suite v1.1
