@@ -1,2 +1,2 @@
-2bf2fa95b565a8c7e959a993002888539bad68e58b29452ca82637b2a814428d  OnLine-NovaShop.zip
-0d7521305499a7d68f97a2c7d7d0f2de46d63966d5a38fd8259f81ffc1ce20e0  OnLine-NovaShop-Setup.zip
+4b90909f500dfa9e681924cff36d28531353a12beb8e2daf5fc182ca15af4c47  OnLine-NovaShop.zip
+b2122edd1c251a28f8b78c2a387cd8fb4b1a03c4a5365db49542e64ae9ee11ec  OnLine-NovaShop-Setup.zip
